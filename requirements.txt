@@ -1,3 +1,5 @@
 numpy
 tensorflow
 IPython[all]
+graphviz
+pydot-ng
